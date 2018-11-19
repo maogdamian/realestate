@@ -1,0 +1,12 @@
+@media print {
+   
+	.header-wrap, aside.sidebar, footer.footer-main, .share-box, .property-hero, .wpb_tabs_nav, #tab-contact form { display: none; }
+	.section-title { padding: 20px 0 0 0; text-align: left; }
+	.large-8 { width: 100%; }
+	.wpb_tabs .wpb_tab { position: relative; left: 0; border: none; border-bottom: 1px solid #ddd; }
+	.meta-box-list li { display: inline-block; }
+	.property-features-tabs { page-break-before: always; }
+	a[href]:after {
+		content: none !important;
+	}
+}

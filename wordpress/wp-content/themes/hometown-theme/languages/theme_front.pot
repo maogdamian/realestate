@@ -1,0 +1,564 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-04 03:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/404.php:10
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/footer.php:69
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/searchform.php:2
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-search.php:5
+msgid "Search &#8230;"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/404.php:11
+msgid "Search"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/comments.php:6
+#, php-format
+msgid "One Response"
+msgid_plural "%1$s Responses"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/comments.php:18
+msgid "Comment Page:"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/comments.php:33
+msgid "Name"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/comments.php:35
+msgid "Email"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/comments.php:37
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-edit-profile.php:43
+msgid "Website"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/comments.php:45
+msgid "Message *"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/comments.php:72
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/comments.php:82
+msgid "Edit"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/index.php:38
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/search.php:31
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/single.php:39
+msgid "No Comments"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/index.php:38
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/search.php:31
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/single.php:39
+msgid "1 Comment"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/index.php:38
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/search.php:31
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/single.php:39
+msgid "% Comments"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/single-agent.php:21
+msgid "Assigned Properties"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/single-property.php:29
+msgid "Inquiry Property"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/single-property.php:46
+msgid "Your message has been sent."
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/single-property.php:48
+msgid "There are something wrong."
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/single.php:48
+msgid "Pages:"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/template-member.php:30
+msgid "Dashboard"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/template-member.php:31
+msgid "Submit Properties"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/template-member.php:32
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-edit-profile.php:17
+msgid "Edit Profile"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/template-member.php:33
+msgid "Logout"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/custom/theme-ajax.php:38
+msgid "has been subscribed."
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/custom/theme-functions.php:61
+msgid "This post is password protected. Please fill the password:"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/custom/theme-functions.php:63
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-login-register.php:13
+msgid "Password"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/custom/theme-functions.php:64
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/vc-template/vc_newsletter.php:6
+msgid "Submit"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-property-search-form.php:46
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-add-property.php:146
+msgid "Property ID"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-property-search-form.php:47
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-property-search-form.php:54
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-property-search-form.php:74
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-property-search-form.php:91
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-property-search-form.php:114
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-property-search-form.php:130
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-add-property.php:158
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-add-property.php:177
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-add-property.php:196
+msgid "Any"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-property-search-form.php:52
+msgid "Property Location"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-property-search-form.php:72
+msgid "Property Status"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-property-search-form.php:89
+msgid "Property Type"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-property-search-form.php:112
+msgid "Min Beds"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-property-search-form.php:128
+msgid "Min Baths"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-property-search-form.php:163
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-add-property.php:213
+msgid "Price"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-property-search-form.php:191
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-single-property.php:113
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-add-property.php:225
+msgid "Area"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-property-search-form.php:199
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-property-search-form.php:200
+msgid "SEARCH"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-single-property.php:113
+msgid "ID"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-single-property.php:113
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-add-property.php:237
+msgid "Bedroom"
+msgid_plural "Bedrooms"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-single-property.php:113
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-add-property.php:231
+msgid "Bathroom"
+msgid_plural "Bathrooms"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-single-property.php:113
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-add-property.php:243
+msgid "Garage"
+msgid_plural "Garages"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-single-property.php:124
+msgid "DETAILS"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-single-property.php:126
+msgid "FEATURES"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-single-property.php:128
+msgid "LOCATION"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-single-property.php:130
+msgid "CONTACT"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-single-property.php:146
+msgid "ATTACHMENTS"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-single-property.php:158
+msgid "FLOOR PLANS"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-single-property.php:199
+msgid "View on Google Map"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-single-property.php:275
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-edit-profile.php:27
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/vc-template/vc_newsletter.php:5
+msgid "Email Address"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-single-property.php:276
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-edit-profile.php:39
+msgid "Phone Number"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-single-property.php:277
+msgid "Message"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-single-property.php:287
+msgid "Enter the words above"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/function-single-property.php:306
+msgid "SUBMIT"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-login-register.php:5
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-login-register.php:61
+msgid "Login"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-login-register.php:9
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-login-register.php:30
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-edit-profile.php:23
+msgid "Username"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-login-register.php:10
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-login-register.php:31
+msgid "Username is required."
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-login-register.php:14
+msgid "Password is required."
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-login-register.php:18
+msgid "Log In"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-login-register.php:25
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-login-register.php:40
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-login-register.php:62
+msgid "Register"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-login-register.php:35
+msgid "E-mail"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-login-register.php:36
+msgid "E-mail is required."
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-login-register.php:36
+msgid "Invalid E-mail address."
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-login-register.php:46
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-login-register.php:63
+msgid "Forgot Password"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-login-register.php:50
+msgid "Username or E-mail"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-login-register.php:51
+msgid "Username or E-mail is required."
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-login-register.php:55
+msgid "Reset Password"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-add-property.php:100
+msgid "Your property has been updated."
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-add-property.php:136
+msgid "Submit / Edit Property"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-add-property.php:142
+msgid "Title"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-add-property.php:150
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-edit-profile.php:47
+msgid "Description"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-add-property.php:156
+msgid "Type"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-add-property.php:175
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-dashboard.php:39
+msgid "Status"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-add-property.php:194
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-add-property.php:294
+msgid "Location"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-add-property.php:219
+msgid "Price Per"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-add-property.php:219
+msgid "for example: month, year"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-add-property.php:250
+msgid "Features"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-add-property.php:266
+msgid "Featured Image"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-add-property.php:278
+msgid "Gallery"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-add-property.php:318
+msgid "Submit Property"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-add-property.php:320
+msgid "Update Property"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-dashboard.php:27
+#, php-format
+msgid ""
+"<p>Your profile is empty. Please edit your profile <a href=\"%s\">here</a>."
+"</p>"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-dashboard.php:33
+msgid "My Properties"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-dashboard.php:38
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-dashboard.php:110
+msgid "Property"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-dashboard.php:40
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-dashboard.php:111
+msgid "Manage"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-dashboard.php:87
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-dashboard.php:95
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-nav.php:17
+msgid "Next Page &rarr;"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-dashboard.php:87
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-dashboard.php:96
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-nav.php:17
+msgid "&larr; Previous Page"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-dashboard.php:105
+msgid "Favourite Properties"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-edit-profile.php:31
+msgid "Profile Image"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-edit-profile.php:32
+msgid "Your profile image is managed with Gravatar, please manage it"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-edit-profile.php:32
+msgid "here"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-edit-profile.php:35
+msgid "Display Name"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-member-edit-profile.php:50
+msgid "Update Profile"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-property-sort.php:5
+msgid "Sort By"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-property-sort.php:6
+msgid "Price Low to High"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-property-sort.php:7
+msgid "Price High to Low"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-property-sort.php:8
+msgid "Date New to Old"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-property-sort.php:9
+msgid "Date Old to New"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-property-sort.php:10
+msgid "Name Ascending"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-property-sort.php:11
+msgid "Name Descending"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-related-property.php:26
+msgid "Related Properties"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-title.php:22
+msgid "Blog"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-title.php:27
+msgid "<strong>404</strong> page not found"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-title.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. isn&rsquo;t it?"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-title.php:33
+msgid "<strong>Search</strong> "
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-title.php:36
+msgid " results matched search query"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-title.php:38
+msgid "no results matched search query"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-title.php:44
+msgid "Attachment"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-title.php:50
+#, php-format
+msgid "<em>Category</em> %s"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-title.php:53
+#, php-format
+msgid "<em>Tag</em> %s"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-title.php:56
+#, php-format
+msgid "<em>Daily</em> %s"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-title.php:58
+#, php-format
+msgid "<em>Monthly</em> %s"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-title.php:60
+#, php-format
+msgid "<em>Yearly</em> %s"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-title.php:69
+#, php-format
+msgid "<em>Author</em> %s"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-user-menu.php:17
+msgid "LOGOUT"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/section/section-user-menu.php:19
+msgid "LOGIN / REGISTER"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/custom/widget/property-compare.php:33
+msgid "Compare with"
+msgstr ""
+
+#: /Volumes/Vault/Projects/wp-theme/hometown-theme/framework/function/base-functions.php:66
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#. Name of the theme
+msgid "Hometown"
+msgstr ""
+
+#. Description of the theme
+msgid "Hometown - Real Estate WordPress Theme"
+msgstr ""
+
+#. URI of the theme
+#. Author URI of the theme
+msgid "http://leafthemes.com"
+msgstr ""
+
+#. Author of the theme
+msgid "LeafThemes Studio"
+msgstr ""

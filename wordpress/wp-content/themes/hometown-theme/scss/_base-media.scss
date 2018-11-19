@@ -1,0 +1,45 @@
+@import "settings";
+@import "mixins.scss";
+@import "variables.scss";
+
+// ONLY MOBILE
+@media screen and (max-width: 782px) {
+	html #wpadminbar { position: fixed; }
+}
+
+@media #{$small-up} { }
+@media #{$small-only} { }
+
+@media #{$medium-up} { 
+	// TITLE
+    .section-title {
+        h1 { font-size: 32px; line-height: 1.5em; }
+    }
+    
+    
+
+    
+
+}
+@media #{$medium-only} { }
+
+@media #{$large-up} { 
+	.comment {
+		.comment-wrap { padding: 0 0 0 130px; }
+		.comment-meta { display: block; position: absolute; top: 0; left: 0; text-align: center; font-size: 0.9em; line-height: 1.5em; }
+		.gravatar { width: 80px; border-radius: 100%; display: block; margin: 0 auto 15px; overflow: hidden; }
+		.comment-meta-compact { display: none; }
+	}
+
+	// BLOG
+	.section-blog { 
+	    .feature-image { margin: 0 0 20px; display: block; }
+	}
+}
+@media #{$large-only} { }
+
+@media #{$xlarge-up} { }
+@media #{$xlarge-only} { }
+
+@media #{$xxlarge-up} { }
+@media #{$xxlarge-only} { }

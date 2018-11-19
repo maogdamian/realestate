@@ -1,0 +1,70 @@
+
+
+.card .meta-box-list li.right { margin: 0 0 0 -12px; }
+.hero .hero-card .card-title { padding: 0 25px 0 0; }
+.hero .hero-card .card-price { float: right; }
+.hero .hero-card .card-meta { margin: 0 0 0 -12px; }
+
+.owl-item { direction: rtl; }
+.rangeSlider { direction: ltr; }
+ #swipebox-container { direction: ltr; }
+ 
+.property-list img { float: right; margin: 0 0 0 15px; }
+.widget-property img { float: right; margin: 0 0 0 15px; }
+.property-hero-list li.price { border-left: 1px solid #eee; }
+.table-list strong { padding: 0 0 0 10px; }
+.property-search-form label small { direction: ltr; }
+
+.hero {
+	.title { right: 15px; left: auto; padding: 0; 
+		i { display: none; }
+	}
+	.badge { right: 15px; left: auto;
+		.status { float: right; }
+	}
+}
+
+@media only screen and (min-width: 40.063em) {
+	.hero .hero-card .card-meta { float: left; }
+	.meta-box-list li { border-right: none; border-left: 1px solid #ddd; }
+	.hero {
+		.title { right: auto; left: 15px; }
+		.badge { right: 15px; left: auto; }
+	}
+}
+@media only screen and (min-width: 64.063em) {
+	.section-title { text-align: inherit; }
+	.header-wrap .branding { float: right; }
+	.primary-nav { float: left; }
+	.primary-nav ul.sub-menu { left: auto; }
+	.primary-nav > ul > li { float: right; }
+	.primary-nav > ul > li:last-child { padding-right: 20px; padding-left: 0; }
+	.header-wrap .header-top {
+		.right { float: left !important; text-align: left; }
+		.left { float: right !important; text-align: right; }
+		.menu { margin: 0 30px 0 0;
+			
+		}
+	}
+	.search-box {
+		input[type='text'] { text-align: right; }
+		.close-button { right: auto; left: 0; }
+	}
+	.primary-nav ul.sub-menu { right: 0; text-align: right; }
+}
+
+.header-wrap .header-top .search-button { margin: 0 30px 0 0; }
+
+// GENERAL ELEMENT
+.right { float: left !important; }
+body { direction: rtl; }
+.selectBox { text-align: right; 
+	.selectBox-arrow { right: auto; left: 0; border-left: none; border-right: 1px solid #ccc; }
+}
+[class*="block-grid-"]>li { float: right; }
+aside { text-align: inherit; }
+.wpb_tabs .wpb_tabs_nav li { float: right; border-right: none; border-left: 1px solid #ddd; }
+.share-box .sharrre { float: right; margin: 10px 0 10px 10px; }
+.pagination-wrap .previouspostslink { float: left; }
+
+.mobile-menu ul i { right: auto; left: 0; border-left: none; border-right: 1px solid rgba(0,0,0,0.15); }

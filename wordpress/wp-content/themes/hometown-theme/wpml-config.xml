@@ -1,0 +1,15 @@
+<wpml-config>
+
+	<custom-types>
+		<custom-type translate="1">property</custom-type>
+		<custom-type translate="1">agent</custom-type>
+	</custom-types>
+
+	<taxonomies>
+		<taxonomy translate="1">location</taxonomy>
+		<taxonomy translate="1">type</taxonomy>
+		<taxonomy translate="1">status</taxonomy>
+		<taxonomy translate="1">features</taxonomy>
+	</taxonomies>
+	
+</wpml-config>

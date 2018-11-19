@@ -1,0 +1,4 @@
+.wp-pagenavi { border: 1px solid #ddd; line-height: 1em; float: left; background: #fff; overflow: hidden;
+	> a, > span { display: block; float: left; padding: 10px 15px; border-left: 1px solid #ddd; margin: 0 0 0 -1px; }
+	.current { background: #fafafa; }
+}

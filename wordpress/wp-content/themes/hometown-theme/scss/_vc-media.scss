@@ -1,0 +1,53 @@
+@import "settings";
+@import "mixins.scss";
+@import "variables.scss";
+
+// ONLY MOBILE
+@media screen and (max-width: 782px) {
+	
+}
+
+@media #{$small-up} { }
+@media #{$small-only} {
+    // HIDDEN
+    .vc_hidden-xs { display: none; }
+}
+
+@media #{$medium-up} { 
+    
+    // HIDDEN
+    .vc_hidden-sm { display: none; }
+    .vc_hidden-md { display: none; }
+
+    // TAB
+    .wpb_tabs { 
+        .wpb_tabs_nav {  
+            li { display: block; float: left; white-space: nowrap; border-right: 1px solid #ddd; background: #fafafa; border-bottom: none;
+            }
+           
+        }
+    }
+
+    // SEPARATOR
+    .vc_separator {
+        h2.title { font-size: 40px; line-height: 1.5em; }
+        .sub-title { font-size: 20px; }
+    }
+}
+@media #{$medium-only} { 
+   
+}
+
+@media #{$large-up} { 
+	
+}
+@media #{$large-only} { }
+
+@media #{$xlarge-up} { 
+    // HIDDEN
+    .vc_hidden-lg { display: none; }
+}
+@media #{$xlarge-only} { }
+
+@media #{$xxlarge-up} { }
+@media #{$xxlarge-only} { }
